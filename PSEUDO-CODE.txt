@@ -1,0 +1,17 @@
+Problem 1
+
+START
+  SET length = 5
+  SET width = 3
+  COMPUTE area = length * width
+  PRINT area
+END
+
+Problem 2
+
+START
+  INPUT length
+  INPUT width
+  COMPUTE area = length * width
+  PRINT area
+END
